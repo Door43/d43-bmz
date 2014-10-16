@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bmz:home|Door43 (bmz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bmz|d43-bmz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bmz/archive/master.zip|d43-bmz.zip]]
+
+**Recent Changes**
+{{changes>ns = bmz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bmz|Ethnologue data]]
+
